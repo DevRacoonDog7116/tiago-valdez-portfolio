@@ -35,7 +35,7 @@ import { IconLink, IconMapPinFilled } from '@tabler/icons-vue';
                     color="primary"
                     variant="soft"
                     square
-                    to="https://github.com/Bug-Hunter7116"
+                    to="https://github.com/DevRacoonDog7116"
                     target="_blank"
                     title="GitHub"
                 />

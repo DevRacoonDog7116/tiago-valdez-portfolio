@@ -8,7 +8,7 @@
             <p>
                 {{ $t('madeBy') }}
                 <a
-                    href="https://github.com/Bug-Hunter7116/bug-hunter-portfolio"
+                    href="https://github.com/DevRacoonDog7116"
                     class="hover:underline font-bold"
                     >Ruslan Danyliuk</a
                 >
