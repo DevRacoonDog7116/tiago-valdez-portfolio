@@ -10,7 +10,7 @@
                 <a
                     href="https://github.com/DevRacoonDog7116"
                     class="hover:underline font-bold"
-                    >Ruslan Danyliuk</a
+                    >Tiago Valdez</a
                 >
                 {{ $t('with') }}
                 <a href="https://nuxt.com/" class="hover:underline font-bold"

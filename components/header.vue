@@ -11,7 +11,7 @@ import { IconLink, IconMapPinFilled } from '@tabler/icons-vue';
                         class="absolute transform -translate-x-5 transition duration-200 opacity-0 w-4 h-4 group-hover:opacity-100"
                     />
                     <h2 class="text-2xl font-bold hover:cursor-pointer">
-                        Ruslan Danyliuk
+                        Tiago Valdez
                     </h2>
                 </div>
             </a>
@@ -28,68 +28,6 @@ import { IconLink, IconMapPinFilled } from '@tabler/icons-vue';
                     Melink, Czeck Republic
                 </p>
             </div>
-            <div class="flex flex-row gap-2 items-center">
-                <UButton
-                    icon="i-tabler-brand-github"
-                    size="sm"
-                    color="primary"
-                    variant="soft"
-                    square
-                    to="https://github.com/DevRacoonDog7116"
-                    target="_blank"
-                    title="GitHub"
-                />
-                <UButton
-                    icon="i-tabler-brand-linkedin"
-                    size="sm"
-                    color="primary"
-                    variant="soft"
-                    square
-                    to="https://www.linkedin.com/in/ruslan-danyliuk-163b88346/"
-                    target="_blank"
-                    title="LinkedIn"
-                />
-                <UButton
-                    icon="i-tabler-phone"
-                    size="sm"
-                    color="primary"
-                    variant="soft"
-                    square
-                    to="tel:+0427745155738 "
-                    arial-label="Phone"
-                />
-                <UButton
-                    icon="i-tabler-mail"
-                    size="sm"
-                    color="primary"
-                    variant="soft"
-                    square
-                    to="mickaktus@gmail.com"
-                    arial-label="Email"
-                />
-                <UButton
-                    icon="i-tabler-file"
-                    size="sm"
-                    color="primary"
-                    variant="soft"
-                    square
-                    to="/resume"
-                    target="_blank"
-                    title="Resume"
-                />
-            </div>
         </div>
-        <ClientOnly>
-            <ConfettisButton>
-                <template v-slot:default="{ onLaunchConfettis }">
-                    <img
-                        src="/photo.png"
-                        alt="Rusaln Danyliuk"
-                        class="sm:w-40 sm:h-40 w-24 h-24 rounded-full object-cover hover:cursor-pointer"
-                        @click="onLaunchConfettis()"
-                    />
-                </template>
-            </ConfettisButton>
-        </ClientOnly>
     </div>
 </template>
