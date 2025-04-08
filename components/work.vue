@@ -24,17 +24,17 @@ import { IconLink } from '@tabler/icons-vue';
                             <a
                                 class="text-lg font-bold hover:underline"
                                 href="https://www.magneto.com"
-                                >Magneto IT Solutions</a
+                                >Magnet Forensics</a
                             >
                             <p class="block sm:hidden text-sm">
-                                Jan 2022 - Current ({{ $t('apprenticeship') }})
+                                Apr 2024 - Current ({{ $t('apprenticeship') }})
                             </p>
                         </div>
                         <p>{{ $t('fullStack') }}</p>
                     </div>
 
                     <div class="flex flex-col items-end gap-0.5">
-                        <p class="hidden sm:block text-sm">Jan 2022 - Current</p>
+                        <p class="hidden sm:block text-sm">Apr 2024 - Current</p>
                         <p class="hidden sm:block text-sm">
                             ({{ $t('apprenticeship') }})
                         </p>
@@ -88,10 +88,10 @@ import { IconLink } from '@tabler/icons-vue';
                             <a
                                 class="text-lg font-bold hover:underline"
                                 href="https://echoglobal.tech/"
-                                >EchoGlobal </a
+                                >Talentica Software </a
                             >
                             <p class="sm:hidden block text-sm">
-                                Aug 2019 - Dec 2022 ({{ $t('front') }})
+                                Aug 2022 - Dec 2024 ({{ $t('front') }})
                             </p>
                         </div>
                         <p>{{ $t('frontend') }}</p>
@@ -99,7 +99,7 @@ import { IconLink } from '@tabler/icons-vue';
 
                     <div class="flex flex-col items-end gap-0.5">
                         <p class="hidden sm:block text-sm">
-                            Aug 2019 - Dec 2022
+                            Aug 2022 - Dec 2024
                         </p>
                         <p class="hidden sm:block text-sm">
                             ({{ $t('front') }})
@@ -150,18 +150,18 @@ import { IconLink } from '@tabler/icons-vue';
                             <a
                                 class="text-lg font-bold hover:underline"
                                 href="https://www.a3logics.com/"
-                                >A3Logics</a
+                                >Raona</a
                             >
                             <p class="sm:hidden block text-sm">
-                                Sep 2017 - Jul 2019 ({{ $t('internship') }})
+                                Sep 2020 - Jul 2022 (Junior Software Developer)
                             </p>
                         </div>
-                        <p>{{ $t('internship') }}</p>
+                        <p>Junior SoftWare Developer</p>
                     </div>
 
                     <div class="flex flex-col items-end gap-0.5">
                         <p class="hidden sm:block text-sm">
-                            Sep 2017 - Jul 2019
+                            Sep 2020 - Jul 2022
                         </p>
                         <p class="hidden sm:block text-sm">
                             ({{ $t('internship') }})
